@@ -12,4 +12,4 @@ This is a simple, responsive, and user-friendly note-keeping web application bui
 * npm start
 ### This should run this project locally in your browser.
 # Here's the video demo of my React App:
-### [Video demo]("https://drive.google.com/file/d/1bEOSN3YBK1AsCi8MruYeklBNEP0eKjPy/view?usp=sharing")
+### [Video demo](https://drive.google.com/file/d/1bEOSN3YBK1AsCi8MruYeklBNEP0eKjPy/view?usp=sharing)
